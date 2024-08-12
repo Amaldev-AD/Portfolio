@@ -140,9 +140,12 @@ span{
     border: 2px solid black;
     transform: scale(1.1);
 }
+
 .image img{
     border-radius: 50%;
-    width: 430px;
+    width: 450px;
+    height: 560px;
+    
 
 }
 ::-webkit-scrollbar{
@@ -167,7 +170,8 @@ span{
 }
 .image-about img{
     /* position: relative; */
-    width: 450px;
+    height: 500px;
+    width: 400px;
     border-radius: 50%;
     box-shadow: 0 0 25px orangered;
 }
